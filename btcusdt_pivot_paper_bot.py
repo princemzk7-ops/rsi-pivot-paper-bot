@@ -37,7 +37,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-BASE_URL = "https://fapi.binance.com"
+BASE_URL="https://demo-fapi.binance.com"
 INTERVAL = "5m"
 KLINE_LIMIT = 160
 POLL_SECONDS = 60
